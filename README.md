@@ -11,7 +11,7 @@ The quick starts are organized by topic along with details on the level (easy, i
 To use a quick start following this workflow:
 
 1. Download the Jupter Notebook file linked in the **Notebook** column below. Click the link and then click the **Down raw file** button. This will download a .ipynb file to your local computer.
-2. Next, access the [TIDE JupyterHub instance](https://csu-tide-jupyterhub.nrp-nautilus.io/) and launch a new sever using the suggested **Image** and **Resource Recommendations** list in the table.
+2. Next, access the [TIDE JupyterHub instance](https://csu-tide-jupyterhub.nrp-nautilus.io/) and launch a new sever using the suggested **Image** and **Resources** recommendations listed in the table.
 3. Once the sever has launched and you're presented with the JupyterLab interface, use the upload button on the file explorer toolbar to upload the .ipynb file you downloaded in step 1. Once the file uploads, find it in the file explorer and double click it.
 4. With the Notebook open, follow the instructions in the Notebook to explore the quick start.
 
@@ -24,9 +24,9 @@ To use a quick start following this workflow:
 
 ## Computer Vision
 
-| **Level** | **Description** | **Software/Frameworks** | **Notebook** | **Image** | **Time** |
+| **Level** | **Description** | **Software/Frameworks** | **Notebook** | **Image/Resources** | **Time** |
 | --------- | --------------- | ----------------------- | ------------ | --------- | -------- |
-| ![intermediate][intermediate-badge] | Fine tune an object detection model to track players in a pro pickleball match recording | - Python</br>- Wget</br>- YOLO</br>- OpenCV | [![Jupyter Notebook][jupyter-badge]](computer-vision/roboflow.ipynb?raw=true) | PRP | 20 minutes | 
+| ![intermediate][intermediate-badge] | Fine tune an object detection model to track players in a pro pickleball match recording | - Python</br>- Wget</br>- YOLO</br>- OpenCV | [![Jupyter Notebook][jupyter-badge]](computer-vision/roboflow.ipynb?raw=true) | **Image**: Stack PRP<br/>**Resources**: 1 L40 GPU, 2 CPU cores, 12 GB RAM | 20 minutes | 
 
 Learning Objectives:
 1. Grab an open-source dataset from Roboflow (API)
