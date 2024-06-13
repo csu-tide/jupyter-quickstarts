@@ -26,7 +26,7 @@ To use a quick start following this workflow:
 
 | **Level** | **Description** | **Software/Frameworks** | **Notebook** | **Image** | **Time** |
 | --------- | --------------- | ----------------------- | ------------ | --------- | -------- |
-| ![intermediate][intermediate-badge] | Fine tune an object detection model to track players in a pro pickleball match recording | - Python</br>- Wget</br>- YOLO</br>- OpenCV | [![Jupyter Notebook][jupyter-badge]](computer-vision/roboflow.ipynb) | PRP | 20 minutes | 
+| ![intermediate][intermediate-badge] | Fine tune an object detection model to track players in a pro pickleball match recording | - Python</br>- Wget</br>- YOLO</br>- OpenCV | [![Jupyter Notebook][jupyter-badge]](computer-vision/roboflow.ipynb?raw=true) | PRP | 20 minutes | 
 
 Learning Objectives:
 1. Grab an open-source dataset from Roboflow (API)
