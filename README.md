@@ -2,17 +2,17 @@
 This is a collection of Jupyter Notebooks quick starts designed to run on [TIDE's JupyterHub instance](https://csu-tide-jupyterhub.nrp-nautilus.io/), or with slight modifications, any JupyterHub instance part of the [National Research Platform](https://nationalresearchplatform.org/). These quick starts are designed to get you started on a specific topic quickly, allowing you to modify and build on the quick start to suit your needs. The focus is primarily on data science, artificial intelligence (AI), and machine learning (ML).
 
 ### Why Jupyter Notebooks?
-Jupyter Notebooks are an easy to use, web-based way to utilize advanced Cyberinfrastruucture (CI). Notebooks on TIDE's JupyterHub allow you to select from pre-created software images that make contain everything you need to get started, and make the experience similar for all users (great for teaching and learning!).
+Jupyter Notebooks are an easy to use, web-based way to utilize advanced Cyberinfrastructure (CI). Notebooks on TIDE's JupyterHub allow you to select from pre-created software images that may contain everything you need to get started, and make the experience similar for all users (great for teaching and learning!).
 
 ## Using the Quick Starts
 
 The quick starts are organized by topic along with details on the level (easy, intermediate, advanced) as well as desciption, learning objectives and detail you need to know to launch a notebook.
 
-To use a quick start following this workflow:
+To use a quick start follow this workflow:
 
-1. Download the Jupter Notebook file linked in the **Notebook** column below. Click the link and then click the **Down raw file** button. This will download a .ipynb file to your local computer.
+1. Download the Jupter Notebook file linked in the **Notebook** column below. Click the link and then click the **Download raw file** button. This will download a .ipynb file to your local computer.
 2. Next, access the [TIDE JupyterHub instance](https://csu-tide-jupyterhub.nrp-nautilus.io/) and launch a new sever using the suggested **Image** and **Resources** recommendations listed in the table.
-3. Once the sever has launched and you're presented with the JupyterLab interface, use the upload button on the file explorer toolbar to upload the .ipynb file you downloaded in step 1. Once the file uploads, find it in the file explorer and double click it.
+3. Once the server has launched and you're presented with the JupyterLab interface, use the upload button on the file explorer toolbar to upload the .ipynb file you downloaded in step 1. Once the file uploads, find it in the file explorer and double click it.
 4. With the Notebook open, follow the instructions in the Notebook to explore the quick start.
 
 # Available Quick Starts
