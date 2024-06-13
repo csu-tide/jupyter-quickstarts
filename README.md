@@ -22,7 +22,7 @@ To use a quick start following this workflow:
 
 ## Getting Started
 
-| **Level** | **Description** | **Software/Frameworks** | **Notebook** | **Image/Resources** | **Time** |
+| **Level** | **Description** | **Software** | **Notebook** | **Image/Resources** | **Time** |
 | --------- | --------------- | ----------------------- | ------------ | --------- | -------- |
 | ![easy][easy-badge] | Logging into JupyterHub and exploring the JupyterLab interface. Learn how to run code cells, use markdown, and run system commands from Notebooks. | - JupyterLab</br> - Python</br>- Markdown | [![Jupyter Notebook][jupyter-badge]](getting-started/jupyter-getting-started.ipynb) | **Image**: Stack Minimal<br/>**Resources**: 0 GPU, 1 CPU cores, 1 GB RAM | 20 minutes | 
 
@@ -39,7 +39,7 @@ Learning Objectives:
 
 ## Computer Vision
 
-| **Level** | **Description** | **Software/Frameworks** | **Notebook** | **Image/Resources** | **Time** |
+| **Level** | **Description** | **Software** | **Notebook** | **Image/Resources** | **Time** |
 | --------- | --------------- | ----------------------- | ------------ | --------- | -------- |
 | ![intermediate][intermediate-badge] | Fine tune an object detection model to track players in a pro pickleball match recording | - Python</br>- Wget</br>- YOLO</br>- OpenCV | [![Jupyter Notebook][jupyter-badge]](computer-vision/roboflow.ipynb) | **Image**: Stack PRP<br/>**Resources**: 1 L40 GPU, 2 CPU cores, 12 GB RAM | 25 minutes | 
 
