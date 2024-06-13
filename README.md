@@ -17,8 +17,8 @@ To use a quick start following this workflow:
 
 # Available Quick Starts
 
-- [Getting Started]()
-- [Computer Vision]()
+- [Getting Started](#getting-started)
+- [Computer Vision](#computer-vision)
 
 ## Getting Started
 
