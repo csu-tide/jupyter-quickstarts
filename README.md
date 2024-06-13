@@ -4,6 +4,17 @@ This is a collection of Jupyter Notebooks quick starts designed to run on [TIDE'
 ### Why Jupyter Notebooks?
 Jupyter Notebooks are an easy to use, web-based way to utilize advanced Cyberinfrastruucture (CI). Notebooks on TIDE's JupyterHub allow you to select from pre-created software images that make contain everything you need to get started, and make the experience similar for all users (great for teaching and learning!).
 
+## Using the Quick Starts
+
+The quick starts are organized by topic along with details on the level (easy, intermediate, advanced) as well as desciption, learning objectives and detail you need to know to launch a notebook.
+
+To use a quick start following this workflow:
+
+1. Download the Jupter Notebook file linked in the **Notebook** column below. This will download a .ipynb file to your local computer.
+2. Next, access the [TIDE JupyterHub instance](https://csu-tide-jupyterhub.nrp-nautilus.io/) and launch a new sever using the suggested **Image** and **Resource Recommendations** list in the table.
+3. Once the sever has launched and you're presented with the JupyterLab interface, use the upload button on the file explorer toolbar to upload the .ipynb file you downloaded in step 1. Once the file uploads, find it in the file explorer and double click it.
+4. With the Notebook open, follow the instructions in the Notebook to explore the quick start.
+
 # Available Quick Starts
 
 - [Getting Started]()
