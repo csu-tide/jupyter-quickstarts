@@ -4,12 +4,26 @@ This is a collection of Jupyter Notebooks quick starts designed to run on [TIDE'
 ### Why Jupyter Notebooks?
 Jupyter Notebooks are an easy to use, web-based way to utilize advanced Cyberinfrastruucture (CI). Notebooks on TIDE's JupyterHub allow you to select from pre-created software images that make contain everything you need to get started, and make the experience similar for all users (great for teaching and learning!).
 
-# Available Notebooks
-The top part of the table consists of tools and methods developed at Bellingcat; the bottom part of community developed tools and methods.
+# Available Quick Starts
 
-| **Category** | **Level** | **Description** | **Software/Frameworks** | **Learning Objectives** | **Notebook** | 
-| :----------: | --------- | --------------- | ----------------------- | ----------------------- | ------------ |
-| Computer Vision | ![intermediate][intermediate-badge] | Fine tune an object detection model to track players in a pro pickleball match recording | - Python</br>- Wget</br>- YOLO</br>- OpenCV | 1. Grab an open-source dataset from Roboflow (API)</br> 2. Use Ultralytics' YOLOv8 library to train and test models</br> 3. Create a model fine-tuned on a dataset</br> 4. Test the fine-tuned model on an example video | [![Jupyter Notebook][jupyter-badge]](computer-vision/roboflow.ipynb.ipynb) |
+- [Getting Started]()
+- [Computer Vision]()
+
+## Getting Started
+
+## Computer Vision
+
+| **Level** | **Description** | **Software/Frameworks** | **Notebook** | **Image** | **Time** |
+| --------- | --------------- | ----------------------- | ------------ | --------- | -------- |
+| ![intermediate][intermediate-badge] | Fine tune an object detection model to track players in a pro pickleball match recording | - Python</br>- Wget</br>- YOLO</br>- OpenCV | [![Jupyter Notebook][jupyter-badge]](computer-vision/roboflow.ipynb.ipynb) | PRP | 20 minutes | 
+
+Learning Objectives:
+1. Grab an open-source dataset from Roboflow (API)
+2. Use Ultralytics' YOLOv8 library to train and test models
+3. Create a model fine-tuned on a dataset
+4. Test the fine-tuned model on an example video
+
+***
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
