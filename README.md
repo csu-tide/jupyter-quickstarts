@@ -17,6 +17,7 @@ To use a quick start follow this workflow:
 
 [![TIDE JupyterHub Quick Starts](http://img.youtube.com/vi/w6rRg17f0u0/0.jpg)](http://www.youtube.com/watch?v=w6rRg17f0u0 "TIDE JupyterHub Quick Starts")
 
+
 # Available Quick Starts
 
 - [Getting Started](#getting-started)
@@ -37,7 +38,6 @@ Learning Objectives:
 6. Use Linux commands in code cells
 
 ***
-
 
 ## Computer Vision
 
