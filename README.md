@@ -12,7 +12,7 @@ To use a quick start follow this workflow:
 
 1. Download the Jupter Notebook file linked in the **Notebook** column below. Click the link and then click the **Download raw file** button. This will download a .ipynb file to your local computer.
 2. Next, access the [TIDE JupyterHub instance](https://csu-tide-jupyterhub.nrp-nautilus.io/) and launch a new sever using the suggested **Image** and **Resources** recommendations listed in the table.
-3. Once the server has launched and you're presented with the JupyterLab interface, use the upload button on the file explorer toolbar to upload the .ipynb file you downloaded in step 1. Once the file uploads, find it in the file explorer and double click it.
+3. Once the server has launched and you're presented with the JupyterLab interface, use the upload button on the file explorer browser to upload the .ipynb file you downloaded in step 1. Once the file uploads, find it in the file browser and double click it.
 4. With the Notebook open, follow the instructions in the Notebook to explore the quick start.
 
 [![TIDE JupyterHub Quick Starts](http://img.youtube.com/vi/w6rRg17f0u0/0.jpg)](http://www.youtube.com/watch?v=w6rRg17f0u0 "TIDE JupyterHub Quick Starts")
