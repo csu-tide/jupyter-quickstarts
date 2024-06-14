@@ -15,6 +15,8 @@ To use a quick start follow this workflow:
 3. Once the server has launched and you're presented with the JupyterLab interface, use the upload button on the file explorer toolbar to upload the .ipynb file you downloaded in step 1. Once the file uploads, find it in the file explorer and double click it.
 4. With the Notebook open, follow the instructions in the Notebook to explore the quick start.
 
+[![TIDE JupyterHub Quick Starts](http://img.youtube.com/vi/w6rRg17f0u0/0.jpg)](http://www.youtube.com/watch?v=w6rRg17f0u0 "TIDE JupyterHub Quick Starts")
+
 # Available Quick Starts
 
 - [Getting Started](#getting-started)
