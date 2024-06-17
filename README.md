@@ -58,7 +58,7 @@ Learning Objectives:
 
 | **Level** | **Description** | **Software** | **Notebook** | **Image/Resources** | **Time** |
 | --------- | --------------- | ----------------------- | ------------ | --------- | -------- |
-| ![easy][easy-badge] | Data Science is an interdisciplinary field that uses scientific methods, statistics, computer science, mathematics, and domain-specific knowledge to extract knowledge and insights from structured and unstructured data. | Python</br>Jupyter Notebook | | **Image**: Stack PRP<br/>**Resources**: 1 L40 GPU, 2 CPU cores, 8 GB RAM | 35 minutes | 
+| ![easy][easy-badge] | Data Science is an interdisciplinary field that uses scientific methods, statistics, computer science, mathematics, and domain-specific knowledge to extract knowledge and insights from structured and unstructured data. | Python</br>Pandas</br>CuDF| | **Image**: Stack PRP<br/>**Resources**: 1 L40 GPU, 2 CPU cores, 8 GB RAM | 35 minutes | 
 
 Learning Objectives:
 1. Understand the basics of data manipulation with Pandas.
