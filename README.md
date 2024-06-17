@@ -82,7 +82,7 @@ Learning Objectives:
 Python is a popular programming language for Data Science due to its simplicity, readability, and vast ecosystem of libraries and tools. Some essential libraries for Data Science in Python are  Pandas, NumPy and Matplotlib.
 
 | **Library** | **Description** | **Notebook** | **Time** |
-| --------- | --------------- | ----------------------- | ------------ | --------- | -------- |
+| --------- | --------------- | ----------------------- | ------------ |
 | NumPY | Data Science is an interdisciplinary field that uses scientific methods, statistics, computer science, mathematics, and domain-specific knowledge to extract knowledge and insights from structured and unstructured data. | 15 minutes | 
 | Pandas | Data Science is an interdisciplinary field that uses scientific methods, statistics, computer science, mathematics, and domain-specific knowledge to extract knowledge and insights from structured and unstructured data. | 15 minutes | 
 
