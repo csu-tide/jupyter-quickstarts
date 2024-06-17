@@ -59,3 +59,12 @@ Learning Objectives:
 [intermediate-badge]: https://img.shields.io/badge/intermediate-ed9121?style=for-the-badge
 [advanced-badge]: https://img.shields.io/badge/advanced-%23F44336?style=for-the-badge
 [jupyter-badge]: https://img.shields.io/badge/jupyter-.ipynb%20file-orange
+
+***
+
+## Data Science
+
+| **Level** | **Description** | **Software** | **Notebook** | **Image/Resources** | **Time** |
+| --------- | --------------- | ----------------------- | ------------ | --------- | -------- |
+| ![Beginner][beginner-badge] | Data Science is an interdisciplinary field that uses scientific methods, statistics, computer science, mathematics, and domain-specific knowledge to extract knowledge and insights from structured and unstructured data. | Python</br>Jupyter Notebook | | **Image**: Stack PRP<br/>**Resources**: 1 L40 GPU, 2 CPU cores, 8 GB RAM | 35 minutes | 
+
