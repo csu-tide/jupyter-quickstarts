@@ -83,8 +83,8 @@ Python is a popular programming language for Data Science due to its simplicity,
 
 | **Library** | **Description** | **Notebook** | **Time** |
 | --------- | --------------- | ----------------------- | ------------ |
-| NumPY | Data Science is an interdisciplinary field that uses scientific methods, statistics, computer science, mathematics, and domain-specific knowledge to extract knowledge and insights from structured and unstructured data. | 15 minutes | 
-| Pandas | Data Science is an interdisciplinary field that uses scientific methods, statistics, computer science, mathematics, and domain-specific knowledge to extract knowledge and insights from structured and unstructured data. | 15 minutes | 
+| NumPY | NumPy (Numerical Python) is a fundamental library for scientific computing in Python. It is widely used in Data Science for numerical operations, linear algebra, multi-dimensional arrays and matrices and data manipulation. | | 15 minutes |
+| Pandas | Pandas is a powerful data analysis and manipulation library built on top of NumPy. Pandas is particularly useful for data cleaning, preprocessing, and exploratory data analysis. | | 15 minutes |
 
 Learning Objectives:
 1. Understand the basics of data manipulation with Pandas.
