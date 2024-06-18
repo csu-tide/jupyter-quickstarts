@@ -56,9 +56,11 @@ Learning Objectives:
 
 ## Data Science
 
+Data Science is an interdisciplinary field that uses scientific methods, statistics, computer science, mathematics, and domain-specific knowledge to extract knowledge and insights from structured and unstructured data.
+
 | **Level** | **Description** | **Software** | **Notebook** | **Image/Resources** | **Time** |
 | --------- | --------------- | ----------------------- | ------------ | --------- | -------- |
-| ![easy][easy-badge] | Data Science is an interdisciplinary field that uses scientific methods, statistics, computer science, mathematics, and domain-specific knowledge to extract knowledge and insights from structured and unstructured data. | Python</br>Pandas</br>CuDF| | **Image**: Stack PRP<br/>**Resources**: 1 L40 GPU, 2 CPU cores, 8 GB RAM | 35 minutes | 
+| ![easy][easy-badge] | NumPY (Numerical Python) is a fundamental library for scientific computing in Python. It is widely used in Data Science for numerical operations, linear algebra, multi-dimensional arrays and matrices and data manipulation. | Python</br>NumPY| | **Image**: Stack Datascience<br/>**Resources**: 0 GPU, 1 CPU cores, 1 GB RAM | 15 minutes | 
 
 Learning Objectives:
 1. Understand the basics of data manipulation with Pandas.
@@ -68,24 +70,11 @@ Learning Objectives:
 
 ***
 
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[easy-badge]: https://img.shields.io/badge/easy-%234CAF50?style=for-the-badge
-[intermediate-badge]: https://img.shields.io/badge/intermediate-ed9121?style=for-the-badge
-[advanced-badge]: https://img.shields.io/badge/advanced-%23F44336?style=for-the-badge
-[jupyter-badge]: https://img.shields.io/badge/jupyter-.ipynb%20file-orange
+| **Level** | **Description** | **Software** | **Notebook** | **Image/Resources** | **Time** |
+| --------- | --------------- | ----------------------- | ------------ | --------- | -------- |
+| ![easy][easy-badge] | Pandas is a powerful data analysis and manipulation library built on top of NumPy. Pandas is particularly useful for data cleaning, preprocessing, and exploratory data analysis. | Python</br>Pandas | **Image**: Stack Datascience<br/>**Resources**: 0 GPU, 1 CPU cores, 1 GB RAM | 15 minutes | 
 
-***
-
-## Python Libraries for Data Science
-
-Python is a popular programming language for Data Science due to its simplicity, readability, and vast ecosystem of libraries and tools. Some essential libraries for Data Science in Python are  Pandas, NumPy and Matplotlib.
-
-| **Library** | **Description** | **Notebook** | **Time** |
-| --------- | --------------- | ----------------------- | ------------ |
-| NumPY | NumPy (Numerical Python) is a fundamental library for scientific computing in Python. It is widely used in Data Science for numerical operations, linear algebra, multi-dimensional arrays and matrices and data manipulation. | | 15 minutes |
-| Pandas | Pandas is a powerful data analysis and manipulation library built on top of NumPy. Pandas is particularly useful for data cleaning, preprocessing, and exploratory data analysis. | | 15 minutes |
-
+Learning Objectives:
 Learning Objectives:
 1. Understand the basics of data manipulation with Pandas.
 2. Learn to preprocess and clean data.
