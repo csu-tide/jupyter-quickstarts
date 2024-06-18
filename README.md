@@ -71,7 +71,7 @@ Learning Objectives:
 
 | **Level** | **Description** | **Software** | **Notebook** | **Image/Resources** | **Time** |
 | --------- | --------------- | ----------------------- | ------------ | --------- | -------- |
-| ![easy][easy-badge] | Pandas is a powerful data analysis and manipulation library built on top of NumPy. Pandas is particularly useful for data cleaning, preprocessing, and exploratory data analysis. | Python</br>Pandas | | **Image**: Stack Datascience<br/>**Resources**: 0 GPU, 1 CPU cores, 1 GB RAM | 15 minutes | 
+| ![easy][easy-badge] | Pandas is a powerful data analysis and manipulation library built on top of NumPy. Pandas is particularly useful for data cleaning, preprocessing, and exploratory data analysis. | Python</br>Pandas |[![Jupyter Notebook][jupyter-badge]](data-science/pandas.ipynb)| **Image**: Stack Datascience<br/>**Resources**: 0 GPU, 1 CPU cores, 1 GB RAM | 15 minutes | 
 
 Learning Objectives:
 1. Understand the basics of data manipulation with Pandas.
