@@ -63,10 +63,9 @@ Data Science is an interdisciplinary field that uses scientific methods, statist
 | ![easy][easy-badge] | NumPY (Numerical Python) is a fundamental library for scientific computing in Python. It is widely used in Data Science for numerical operations, linear algebra, multi-dimensional arrays and matrices and data manipulation. | Python</br>NumPY| | **Image**: Stack Datascience<br/>**Resources**: 0 GPU, 1 CPU cores, 1 GB RAM | 15 minutes | 
 
 Learning Objectives:
-1. Understand the basics of data manipulation with Pandas.
-2. Learn to preprocess and clean data.
-3. Create visualizations to explore data patterns and trends using Matplotlib.
-4. Utilize CuDF for GPU-accelerated data processing to handle larger datasets.
+1. Create Arrays and Matrices using Python list or Tuple
+2. Understand the basics of statistical analysis with NumPy.
+3. Exploring Numpy functions to perform numerical computing.
 
 ***
 
@@ -75,11 +74,9 @@ Learning Objectives:
 | ![easy][easy-badge] | Pandas is a powerful data analysis and manipulation library built on top of NumPy. Pandas is particularly useful for data cleaning, preprocessing, and exploratory data analysis. | Python</br>Pandas | | **Image**: Stack Datascience<br/>**Resources**: 0 GPU, 1 CPU cores, 1 GB RAM | 15 minutes | 
 
 Learning Objectives:
-Learning Objectives:
 1. Understand the basics of data manipulation with Pandas.
 2. Learn to preprocess and clean data.
-3. Create visualizations to explore data patterns and trends using Matplotlib.
-4. Utilize CuDF for GPU-accelerated data processing to handle larger datasets.
+3. Finding Missing values and performing File conversions from type to another.
 
 ***
 
