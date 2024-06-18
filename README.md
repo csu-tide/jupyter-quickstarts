@@ -60,7 +60,7 @@ Data Science is an interdisciplinary field that uses scientific methods, statist
 
 | **Level** | **Description** | **Software** | **Notebook** | **Image/Resources** | **Time** |
 | --------- | --------------- | ----------------------- | ------------ | --------- | -------- |
-| ![easy][easy-badge] | NumPY (Numerical Python) is a fundamental library for scientific computing in Python. It is widely used in Data Science for numerical operations, linear algebra, multi-dimensional arrays and matrices and data manipulation. | Python</br>NumPY| | **Image**: Stack Datascience<br/>**Resources**: 0 GPU, 1 CPU cores, 1 GB RAM | 15 minutes | 
+| ![easy][easy-badge] | NumPY (Numerical Python) is a fundamental library for scientific computing in Python. It is widely used in Data Science for numerical operations, linear algebra, multi-dimensional arrays and matrices and data manipulation. | Python</br>NumPY|[![Jupyter Notebook][jupyter-badge]](data-science/numpy.ipynb) | **Image**: Stack Datascience<br/>**Resources**: 0 GPU, 1 CPU cores, 1 GB RAM | 15 minutes | 
 
 Learning Objectives:
 1. Create Arrays and Matrices using Python list or Tuple
