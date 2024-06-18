@@ -79,7 +79,11 @@ Learning Objectives:
 3. Finding Missing values and performing File conversions from type to another.
 
 ***
+| **Level** | **Description** | **Software** | **Notebook** | **Image/Resources** | **Time** |
+| --------- | --------------- | ----------------------- | ------------ | --------- | -------- |
+| ![intermediate][intermediate-badge] |Matplotlib is a comprehensive Python library for creating static, animated, and interactive visualizations. We can create a wide range of plots with matplotlib, from simple line graphs to complex multi-plot figures. | Python</br>Matplotlib | | **Image**: Stack Datascience<br/>**Resources**: 0 GPU, 1 CPU cores, 1 GB RAM | 15 minutes | 
 
+***
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [easy-badge]: https://img.shields.io/badge/easy-%234CAF50?style=for-the-badge
