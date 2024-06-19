@@ -24,7 +24,7 @@ To use a quick start follow this workflow:
 - [Computer Vision](#computer-vision)
 - [Data Science](#data-science)
 - [Large Language Models](#large-language-models)
-- 
+
 ## Getting Started
 
 | **Level** | **Description** | **Software** | **Notebook** | **Image/Resources** | **Time** |
