@@ -23,7 +23,8 @@ To use a quick start follow this workflow:
 - [Getting Started](#getting-started)
 - [Computer Vision](#computer-vision)
 - [Data Science](#data-science)
-
+- [Large Language Models](#large-language-models)
+- 
 ## Getting Started
 
 | **Level** | **Description** | **Software** | **Notebook** | **Image/Resources** | **Time** |
@@ -82,6 +83,19 @@ Learning Objectives:
 | **Level** | **Description** | **Software** | **Notebook** | **Image/Resources** | **Time** |
 | --------- | --------------- | ----------------------- | ------------ | --------- | -------- |
 | ![intermediate][intermediate-badge] |Matplotlib is a comprehensive Python library for creating static, animated, and interactive visualizations. We can create a wide range of plots with matplotlib, from simple line graphs to complex multi-plot figures. | Python</br>Matplotlib | | **Image**: Stack Datascience<br/>**Resources**: 0 GPU, 1 CPU cores, 1 GB RAM | 15 minutes | 
+
+***
+
+## Large Language Models
+
+| **Level** | **Description** | **Software** | **Notebook** | **Image/Resources** | **Time** |
+| --------- | --------------- | ----------------------- | ------------ | --------- | -------- |
+| ![easy][easy-badge] | Ollama is an open source tool for downloading and hosting large language models (LLMs). Use Ollama with Jupyter Notebook to easily query the LLMs using the OpenAI API library. | Python</br>Ollama</br>OpenAI API | [![Jupyter Notebook][jupyter-badge]](llms/ollama-llm-quick-start.ipynb) | **Image**: LLM Notebook<br/>**Resources**: 1 L40 GPU, 2 CPU cores, 4 GB RAM | 15 minutes | 
+
+Learning Objectives:
+1. Familiarize yourself with the Ollama tool
+2. Download the llama3 8B model
+3. Ask question of llama3 using the OpenAI API library
 
 ***
 <!-- MARKDOWN LINKS & IMAGES -->
