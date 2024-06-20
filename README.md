@@ -95,7 +95,7 @@ Learning Objectives:
 Learning Objectives:
 1. Familiarize yourself with the Ollama tool
 2. Download the llama3 8B model
-3. Ask question of llama3 using the OpenAI API library
+3. Ask questions of llama3 using the OpenAI API library
 
 ***
 <!-- MARKDOWN LINKS & IMAGES -->
