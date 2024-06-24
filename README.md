@@ -84,6 +84,12 @@ Learning Objectives:
 | --------- | --------------- | ----------------------- | ------------ | --------- | -------- |
 | ![intermediate][intermediate-badge] |Matplotlib is a comprehensive Python library for creating static, animated, and interactive visualizations. We can create a wide range of plots with matplotlib, from simple line graphs to complex multi-plot figures. | Python</br>Matplotlib | | **Image**: Stack Datascience<br/>**Resources**: 0 GPU, 1 CPU cores, 1 GB RAM | 15 minutes | 
 
+Learning Objectives:
+1. Understand the basic structure and components of Matplotlib plots.
+2. Learn to create various types of 2D plots, including line plots, scatter plots and bar charts.
+3. Develop skills in formatting and styling plots, including setting titles, labels and color schemes.
+4. Explore advanced visualization techniques such as 3D plotting.
+   
 ***
 
 ## Large Language Models
