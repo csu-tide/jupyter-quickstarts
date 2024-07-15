@@ -1,12 +1,12 @@
-# Jupyter Notebook Quick Starts
-This is a collection of Jupyter Notebooks quick starts designed to run on [TIDE's JupyterHub instance](https://csu-tide-jupyterhub.nrp-nautilus.io/), or with slight modifications, any JupyterHub instance part of the [National Research Platform](https://nationalresearchplatform.org/). These quick starts are designed to get you started on a specific topic quickly, allowing you to modify and build on the quick start to suit your needs. The focus is primarily on data science, artificial intelligence (AI), and machine learning (ML).
+# Quick Starts to Utilize GPU and CPU resources
+This is a collection of Jupyter Notebooks quick starts designed to get you quickly running on the [TIDE's JupyterHub instance](https://csu-tide-jupyterhub.nrp-nautilus.io/), whether your program requires CPU or GPU hardware. These notebooks, with slight modifications, should run on any JupyterHub instance that is a part of the [National Research Platform](https://nationalresearchplatform.org/). You may modify and build on the quick starts to suit your needs, but the examples are utilizing TIDE's CPU and GPU resources primarily on data science, artificial intelligence (AI), and machine learning (ML).
 
 ### Why Jupyter Notebooks?
 Jupyter Notebooks are an easy to use, web-based way to utilize advanced Cyberinfrastructure (CI). Notebooks on TIDE's JupyterHub allow you to select from pre-created software images that may contain everything you need to get started, and make the experience similar for all users (great for teaching and learning!).
 
 ## Using the Quick Starts
 
-The quick starts are organized by topic along with details on the level (easy, intermediate, advanced) as well as description, learning objectives and details you need to launch the notebook.
+The quick starts are organized by hardware resource (CPU or GPU), learning topic, and the level of difficulity (easy, intermediate, advanced) as well as description, learning objectives and details you need to launch the notebook.
 
 To use a quick start follow this workflow:
 
@@ -18,7 +18,7 @@ To use a quick start follow this workflow:
 [![TIDE JupyterHub Quick Starts](http://img.youtube.com/vi/w6rRg17f0u0/0.jpg)](http://www.youtube.com/watch?v=w6rRg17f0u0 "TIDE JupyterHub Quick Starts")
 
 
-# Available Quick Starts
+# Available Quick Starts (Todo)
 
 - [Getting Started](#getting-started)
 - [Computer Vision](#computer-vision)
@@ -40,22 +40,8 @@ Learning Objectives:
 6. Use Linux commands in code cells
 
 ***
-
-## Computer Vision
-
-| **Level** | **Description** | **Software** | **Notebook** | **Image/Resources** | **Time** |
-| --------- | --------------- | ----------------------- | ------------ | --------- | -------- |
-| ![intermediate][intermediate-badge] | Fine tune an object detection model to track players in a pro pickleball match recording | Python</br>Wget</br>YOLO</br>OpenCV | [![Jupyter Notebook][jupyter-badge]](computer-vision/roboflow.ipynb) | **Image**: Stack PRP<br/>**Resources**: 1 L40 GPU, 2 CPU cores, 12 GB RAM | 25 minutes | 
-
-Learning Objectives:
-1. Grab an open-source dataset from Roboflow (API)
-2. Use Ultralytics' YOLOv8 library to train and test models
-3. Create a model fine-tuned on a dataset
-4. Test the fine-tuned model on an example video
-
-***
-
-## Data Science
+## Utilizing CPU Resources
+### Data Science
 
 Data Science is an interdisciplinary field that uses scientific methods, statistics, computer science, mathematics, and domain-specific knowledge to extract knowledge and insights from structured and unstructured data.
 
@@ -89,19 +75,37 @@ Learning Objectives:
 2. Learn to create various types of 2D plots, including line plots, scatter plots and bar charts.
 3. Develop skills in formatting and styling plots, including setting titles, labels and color schemes.
 4. Explore advanced visualization techniques such as 3D plotting.
-   
-***
 
-## Large Language Models
+## Utilizing a Single GPU
+### Computer Vision
 
 | **Level** | **Description** | **Software** | **Notebook** | **Image/Resources** | **Time** |
 | --------- | --------------- | ----------------------- | ------------ | --------- | -------- |
-| ![easy][easy-badge] | Ollama is an open source tool for downloading and hosting large language models (LLMs). Use Ollama with Jupyter Notebook to easily query the LLMs using the OpenAI API library. | Python</br>Ollama</br>OpenAI API | [![Jupyter Notebook][jupyter-badge]](llms/ollama-llm-quick-start.ipynb) | **Image**: LLM Notebook<br/>**Resources**: 1 L40 GPU, 2 CPU cores, 4 GB RAM | 15 minutes | 
+| ![intermediate][intermediate-badge] | Fine tune an object detection model to track players in a pro pickleball match recording | Python</br>Wget</br>YOLO</br>OpenCV | [![Jupyter Notebook][jupyter-badge]](computer-vision/roboflow.ipynb) | **Image**: Stack PRP<br/>**Resources**: 1 L40 GPU, 2 CPU cores, 12 GB RAM | 25 minutes | 
+
+Learning Objectives:
+1. Grab an open-source dataset from Roboflow (API)
+2. Use Ultralytics' YOLOv8 library to train and test models
+3. Create a model fine-tuned on a dataset
+4. Test the fine-tuned model on an example video
+***
+
+### Large Language Models
+
+| **Level** | **Description** | **Software** | **Notebook** | **Image/Resources** | **Time** |
+| --------- | --------------- | ----------------------- | ------------ | --------- | -------- |
+| ![][easy-badge] | Ollama is an open source tool for downloading and hosting large language models (LLMs). Use Ollama with Jupyter Notebook to easily query the LLMs using the OpenAI API library. | Python</br>Ollama</br>OpenAI API | [![Jupyter Notebook][jupyter-badge]](llms/ollama-llm-quick-start.ipynb) | **Image**: LLM Notebook<br/>**Resources**: 1 L40 GPU, 2 CPU cores, 4 GB RAM | 30 minutes | 
 
 Learning Objectives:
 1. Familiarize yourself with the Ollama tool
 2. Download the llama3 8B model
 3. Ask questions of llama3 using the OpenAI API library
+
+## Utilizing a Single GPU
+### Hosting Multiple LLM Models
+| **Level** | **Description** | **Software** | **Notebook** | **Image/Resources** | **Time** |
+| --------- | --------------- | ----------------------- | ------------ | --------- | -------- |
+| ![intermediate][intermediate-badge] | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. | Python</br>Ollama</br>OpenAI API | TBD | **Image**: LLM Notebook<br/>**Resources**: 2 L40 GPU, 2 CPU cores, 16 GB RAM | 30 minutes | 
 
 ***
 <!-- MARKDOWN LINKS & IMAGES -->
