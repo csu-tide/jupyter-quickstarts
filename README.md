@@ -101,8 +101,8 @@ Learning Objectives:
 2. Download the llama3 8B model
 3. Ask questions of llama3 using the OpenAI API library
 
-## Utilizing a Single GPU
-### Hosting Multiple LLM Models
+## Utilizing Multiple GPUs (coming soon)
+### Hosting Multiple LLM Models (To be Added soon)
 | **Level** | **Description** | **Software** | **Notebook** | **Image/Resources** | **Time** |
 | --------- | --------------- | ----------------------- | ------------ | --------- | -------- |
 | ![intermediate][intermediate-badge] | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. | Python</br>Ollama</br>OpenAI API | TBD | **Image**: LLM Notebook<br/>**Resources**: 2 L40 GPU, 2 CPU cores, 16 GB RAM | 30 minutes | 
