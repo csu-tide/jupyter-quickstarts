@@ -1,0 +1,39 @@
+TIDE Wave
+Technology Infrastructure for Data Exploration (TIDE)
+TIDE is an advanced infrastructure platform integrated into the National Research Platform Nautilus hyper-cluster. It provides a robust environment for data exploration and computational tasks, leveraging cutting-edge technology to support artificial intelligence, machine learning, and data science projects.
+
+Using TIDE
+JupyterHub
+JupyterHub is a web-based interface provided by TIDE that allows users to access a range of computational resources and software tools. Here’s how to get started:
+
+Access:
+
+Web Interface: JupyterHub is accessible from any web browser, providing a user-friendly interface for managing and running computational notebooks.
+Features:
+
+Pre-Configured Containers: Users can choose from a variety of pre-built software containers that include packages and tools commonly used in AI, ML, and data science.
+Graphical Processing Units (GPUs): Resources include options for GPUs, which are essential for high-performance computing tasks.
+Getting Started:
+
+Request Access: Complete the TIDE Support Request form to obtain access to the JupyterHub instance.
+Quickstart Guide: Review the Quickstart guide available on the TIDE GitHub documentation site to familiarize yourself with the platform’s features and usage.
+Software Containers: Explore the list of available software container images. For any queries or additional needs, submit a TIDE Support Request.
+Launch Server: Use your campus credentials to access the TIDE JupyterHub and launch your computational environment.
+Jobs
+For tasks that require extended computation time or more complex configurations, TIDE allows the execution of containers as jobs within namespaces. Here’s how you can manage these jobs:
+
+Purpose:
+
+Long-Running Tasks: Execute long-running or resource-intensive jobs using containers.
+Namespaces:
+
+Organization: Namespaces help in organizing users, jobs, and other resources within the TIDE environment.
+Assistance:
+
+Support: If you need help with creating or managing namespaces, submit a TIDE Support Request, and the team will assist you in setting up the necessary configurations.
+Quick Links
+TIDE Support Request: Submit a support request for any issues or queries.
+TIDE JupyterHub: Access the JupyterHub interface for managing computational resources.
+TIDE on GitHub: Explore the TIDE documentation and additional resources on GitHub.
+TIDE YouTube: Watch tutorials and informational videos about TIDE.
+NSF Award #2346

@@ -1,0 +1,77 @@
+CSU TIDE Documentation
+
+Overview
+Technology Infrastructure for Data Exploration (TIDE) provides CSU researchers with access to research-class CPU and GPU resources. TIDE is designed with a focus on AI and machine learning but is also suitable for other containerizable workloads. TIDE will initially be available for testing and feedback from science drivers before being made generally available to all CSU researchers.
+
+Getting Access
+To gain access to TIDE, follow the steps outlined in the Using TIDE guide. Submit a TIDE Support Request to be granted access. Once your request is reviewed, a TIDE team member will contact you with next steps.
+
+JupyterHub
+Overview
+JupyterHub offers a browser-based development environment that simplifies access to TIDE resources. It supports various programming languages, including Python, R, and Julia, and provides libraries such as Pandas, PyTorch, and TensorFlow.
+
+Features
+Storage: Each user is allocated 50 GB of storage. To request additional space, submit a TIDE Support Request. Check your storage usage in the Check Disk Quota FAQ.
+
+Launch JupyterHub
+Access JupyterHub using the provided link to start your interactive development environment.
+
+Containerization
+For more complex jobs, TIDE supports containerized software execution directly on the cluster. Requests for batch access can be made by submitting a TIDE Support Request.
+
+General Container Images
+Stack Minimal: Ubuntu 20.04, JupyterLab 4.0.2, Python 3.10.12, Git 2.25.1, CUDA 11.7
+Stack R: Includes R 4.3.1 and various R packages
+Stack SciPy: Includes a broad range of Python libraries for scientific computing
+Stack Tensorflow: Includes TensorFlow 2.11.0
+Stack Datascience: Includes Julia 1.7.2 and various data science libraries
+Stack PRP: Includes packages for astropy, fastai, keras, opencv-python, and more
+R Studio: Includes R Studio with a minimal notebook environment
+
+Custom Container Images
+Eclipse C/C++ Desktop: Eclipse IDE for C/C++ Developers, additional tools for C/C++ development
+Kube Notebook: Tools for interacting with Kubernetes
+SageMath Notebook: SageMath for mathematical computations
+GIS Notebook: GIS tools and libraries
+Health-Informatics-Notebook: Includes biopython, pytest, and tools for health informatics
+George Lab Notebook: Tools for health informatics research, including opencv and gudhi
+
+Frequently Asked Questions
+
+Resolving a 503 Error
+If you encounter a 503 error, try reloading the page using:
+
+Windows: CTRL + R
+Mac: CMD + R
+Server Options
+When starting a new notebook, consider the following resources:
+
+GPUs: Useful for AI/ML, scientific computing, data science, and medical imaging.
+CPU Cores: Beneficial for genomics, numerical simulations, and parallel programming.
+RAM: Essential for AI/ML, big data analytics, and geospatial analysis.
+Disk Space Management
+Users are granted 50 GB of storage on JupyterHub. Files will be removed one semester after the last active course or when CSU email is deprovisioned. Manage files using the JupyterHub File Manager or Terminal. Backup files by creating a zip archive using the following commands:
+
+$ sudo apt-get update
+$ sudo apt-get install zip
+$ zip -r backup.zip *
+To extract a zip archive, use:
+
+$ unzip /path/to/zip/backup.zip
+Manually Stop Notebook
+To stop a notebook and modify server options, select "Hub Control Panel" under the File tab and click "Stop My Server."
+
+Check Disk Quota
+To check disk usage, use the Terminal command:
+
+df -h
+Look for the /home/jovyan filesystem for your home directory’s usage details.
+
+Server Unavailable or Unreachable Error
+If you encounter a server unavailable error, try restarting the server by clicking "Restart" when prompted. Avoid dismissing the error message as it may restrict access to your notebook.
+
+Additional Resources
+
+TIDE Website
+TIDE YouTube
+CSU TIDE on GitHub
