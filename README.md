@@ -43,38 +43,15 @@ Learning Objectives:
 ## Utilizing CPU Resources
 ### Data Science
 
-Data Science is an interdisciplinary field that uses scientific methods, statistics, computer science, mathematics, and domain-specific knowledge to extract knowledge and insights from structured and unstructured data.
-
 | **Level** | **Description** | **Software** | **Notebook** | **Image/Resources** | **Time** |
 | --------- | --------------- | ----------------------- | ------------ | --------- | -------- |
-| ![easy][easy-badge] | NumPY (Numerical Python) is a fundamental library for scientific computing in Python. It is widely used in Data Science for numerical operations, linear algebra, multi-dimensional arrays and matrices and data manipulation. | Python</br>NumPY|[![Jupyter Notebook][jupyter-badge]](data-science/numpy.ipynb) | **Image**: Stack Datascience<br/>**Resources**: 0 GPU, 1 CPU cores, 1 GB RAM | 15 minutes | 
+| ![easy][easy-badge] | This Jupyter notebook demonstrates a comprehensive data analysis on a wine dataset using three essential Python libraries such as Numpy, Pandas and Matplotlib.| Python</br>Python Libraries (Numpy, Pandas, Matplotlib)|[![Jupyter Notebook][jupyter-badge]](data-science/datascience.ipynb) | **Image**: Stack Datascience Notebook<br/>**Resources**: 0 GPU, 1 CPU cores, 1 GB RAM | 20 minutes | 
 
 Learning Objectives:
-1. Create Arrays and Matrices using Python list or Tuple
-2. Understand the basics of statistical analysis with NumPy.
-3. Exploring Numpy functions to perform numerical computing.
-
+1. Use NumPy to create arrays, matrices and perform statistical analysis, numerical computing.
+2. Utilize Pandas for data manipulation, cleaning, and handling missing values
+3. Create informative visualizations using Matplotlib to illustrate insights from the data.
 ***
-
-| **Level** | **Description** | **Software** | **Notebook** | **Image/Resources** | **Time** |
-| --------- | --------------- | ----------------------- | ------------ | --------- | -------- |
-| ![easy][easy-badge] | Pandas is a powerful data analysis and manipulation library built on top of NumPy. Pandas is particularly useful for data cleaning, preprocessing, and exploratory data analysis. | Python</br>Pandas |[![Jupyter Notebook][jupyter-badge]](data-science/pandas.ipynb)| **Image**: Stack Datascience<br/>**Resources**: 0 GPU, 1 CPU cores, 1 GB RAM | 15 minutes | 
-
-Learning Objectives:
-1. Understand the basics of data manipulation with Pandas.
-2. Learn to preprocess and clean data.
-3. Finding Missing values and performing File conversions from type to another.
-
-***
-| **Level** | **Description** | **Software** | **Notebook** | **Image/Resources** | **Time** |
-| --------- | --------------- | ----------------------- | ------------ | --------- | -------- |
-| ![intermediate][intermediate-badge] |Matplotlib is a comprehensive Python library for creating static, animated, and interactive visualizations. We can create a wide range of plots with matplotlib, from simple line graphs to complex multi-plot figures. | Python</br>Matplotlib |[![Jupyter Notebook][jupyter-badge]](data-science/matplotlib.ipynb) | **Image**: Stack Datascience<br/>**Resources**: 0 GPU, 1 CPU cores, 1 GB RAM | 15 minutes | 
-
-Learning Objectives:
-1. Understand the basic structure and components of Matplotlib plots.
-2. Learn to create various types of 2D plots, including line plots, scatter plots and bar charts.
-3. Develop skills in formatting and styling plots, including setting titles, labels and color schemes.
-4. Explore advanced visualization techniques such as 3D plotting.
 
 ## Utilizing a Single GPU
 ### Computer Vision
