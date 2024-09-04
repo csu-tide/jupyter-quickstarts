@@ -31,13 +31,6 @@ To use a quick start follow this workflow:
 | --------- | --------------- | ----------------------- | ------------ | --------- | -------- |
 | ![easy][easy-badge] | Logging into JupyterHub and exploring the JupyterLab interface. Learn how to run code cells, use markdown, and run system commands from Notebooks. | JupyterLab</br>Python</br>Markdown | [![Jupyter Notebook][jupyter-badge]](getting-started/jupyter-getting-started.ipynb) | **Image**: Stack Minimal<br/>**Resources**: 0 GPU, 1 CPU cores, 1 GB RAM | 20 minutes | 
 
-Learning Objectives:
-1. Understand Jupyter Notebooks and their value
-2. Use basic keyboard shortcuts
-3. Use markdown cells
-4. Use code cells
-5. Use magic commands
-6. Use Linux commands in code cells
 
 ***
 ## Utilizing CPU Resources
@@ -45,13 +38,8 @@ Learning Objectives:
 
 | **Level** | **Description** | **Software** | **Notebook** | **Image/Resources** | **Time** |
 | --------- | --------------- | ----------------------- | ------------ | --------- | -------- |
-| ![easy][easy-badge] | This Jupyter notebook demonstrates a comprehensive data analysis on a wine dataset using three essential Python libraries such as Numpy, Pandas and Matplotlib.| Python</br>Python Libraries (Numpy, Pandas, Matplotlib)|[![Jupyter Notebook][jupyter-badge]](data-science/datascience.ipynb) | **Image**: Stack Datascience Notebook<br/>**Resources**: 0 GPU, 1 CPU cores, 1 GB RAM | 20 minutes | 
+| ![easy][easy-badge] | This Jupyter notebook demonstrates a comprehensive data analysis on a wine dataset using three essential Python libraries such as Numpy, Pandas, and Matplotlib.| Python</br>Python Libraries (Numpy, Pandas, Matplotlib)|[![Jupyter Notebook][jupyter-badge]](data-science/datascience.ipynb) | **Image**: Stack Datascience Notebook<br/>**Resources**: 0 GPU, 1 CPU cores, 1 GB RAM | 20 minutes | 
 
-Learning Objectives:
-1. Use NumPy to create arrays, matrices and perform statistical analysis, numerical computing.
-2. Utilize Pandas for data manipulation, cleaning, and handling missing values
-3. Create informative visualizations using Matplotlib to illustrate insights from the data.
-***
 
 ## Utilizing a Single GPU
 ### Computer Vision
@@ -60,12 +48,6 @@ Learning Objectives:
 | --------- | --------------- | ----------------------- | ------------ | --------- | -------- |
 | ![intermediate][intermediate-badge] | Fine tune an object detection model to track players in a pro pickleball match recording | Python</br>Wget</br>YOLO</br>OpenCV | [![Jupyter Notebook][jupyter-badge]](computer-vision/roboflow.ipynb) | **Image**: Stack PRP<br/>**Resources**: 1 L40 GPU, 2 CPU cores, 12 GB RAM | 25 minutes | 
 
-Learning Objectives:
-1. Grab an open-source dataset from Roboflow (API)
-2. Use Ultralytics' YOLOv8 library to train and test models
-3. Create a model fine-tuned on a dataset
-4. Test the fine-tuned model on an example video
-***
 
 ### Large Language Models
 
@@ -78,8 +60,8 @@ Learning Objectives:
 2. Download the llama3 8B model
 3. Ask questions of llama3 using the OpenAI API library
 
-## Utilizing a Single GPU
-### Hosting Multiple LLM Models
+## Utilizing Multiple GPUs (coming soon)
+### Hosting Multiple LLM Models (To be Added soon)
 | **Level** | **Description** | **Software** | **Notebook** | **Image/Resources** | **Time** |
 | --------- | --------------- | ----------------------- | ------------ | --------- | -------- |
 | ![intermediate][intermediate-badge] | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. | Python</br>Ollama</br>OpenAI API | TBD | **Image**: LLM Notebook<br/>**Resources**: 2 L40 GPU, 2 CPU cores, 16 GB RAM | 30 minutes | 
